@@ -14,16 +14,18 @@ Introduction --- Hyperspectral image denoising techniques can be classified into
 ###### Transform domain method
 - Wavelet-based hyperspectral image estimation, IGARSS2003, I. Atkinson et al.
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
+- Hyperspectral image denoising using 3D wavelets, IGARSS2013, B. Rasti et al.
+- Hyperspectral Image Denoising Using First Order Spectral Roughness Penalty in Wavelet Domain, JStars2014, B. Rasti et al.
 
 ###### Spatial domain methods
 By adopting reasonable assumptions or priors, such as Global Correlation along Spetrum, Non-local Self Similarity across space, Total Variation, Non-local (Non-Local), Sparse Representation, Low Rank models, etc., spatial domain based methods can well preserve the spatial and spectral characteristics.
 
 - **[GCS and NSS]** Adaptive Spatial-Spectral Dictionary Learning for Hyperspectral Image Denoising, ICCV2015, Ying Fu et al.
-
-- **[GCS and NSS]** Decomposable nonlocal tensor dictionary learning for multispectral image denoising, CVPR2014, P. Yi et al.
-- **[GCS and NSS]** Multispectral images denoising by intrinsic tensor sparsity regularization, CVPR2016, Q. Xie et al.
+- **[GCS and NSS]** Decomposable nonlocal tensor dictionary learning for multispectral image denoising, CVPR2014, P. Yi et al. [[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=1766524&name=DLFE-38410.zip)
+- **[GCS and NSS]** Multispectral images denoising by intrinsic tensor sparsity regularization, CVPR2016, Q. Xie et al. [[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2343711&name=DLFE-86323.zip)
 - **[GCS]** Denoising of hyperspectral images using the parafac model and statistical performance analysis, TGRS2012, X. F. Liu, et al.
 - **[TV]** Hyperspectral image denoising employing a spectral–spatial adaptive total variation model, TGRS2012, Q. Yuan et al.
+- Hyperspectral image denoising with cubic total variation model, ISPRS2012, H. Zhang et al.
 - **[TV]** Hyperspectral image denoising with a combined spatial and spectral hyperspectral total variation model, CJRS2014, G. Chen et al.
 - **[NL]** A nonlocal transform-domain filter for volumetric data denoising and reconstruction, TIP2012, M. Maggioni et al.
 - **[SR]** Spectral–Spatial Adaptive Sparse Representation for Hyperspectral Image Denoising, TGRS2016, T. Lu et al.
@@ -35,10 +37,16 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - **[LR and GCS]** Hyperspectral Image Denoising Using Local Low-Rank Matrix Recovery and Global Spatial-Spectral Total Variation, JStars2015, H. Zhang et al. [[PDF]]( http://www.lmars.whu.edu.cn/prof_web/zhanghongyan/papers/Hyperspectral%20Image%20Denoising%20Using%20Local%20Low-Rank%20Matrix%20Recovery%20and%20Global%20Spatial-Spectral%20Total%20Variation.pdf)[[Code]]( http://www.lmars.whu.edu.cn/prof_web/zhanghongyan/resource/LLRGTV.rar)
 - **[LR]** Hyperspectral image restoration via iteratively regularized weighted Schatten p-norm minimization, TGRS2016, Y. Xie et al.
 - **[LR]** Hyperspectral image restoration using low-rank tensor recovery, J-STARS2017, H. Fan et al.
+- **[LR]** Hyperspectral Image Restoration Using Low-Rank Representation on Spectral Difference Image, J-STARS2017, L. Sun et al.
 - **[LR]** Hyperspectral Image Denoising with Superpixel Segmentation and Low-Rank Representation, INS2017, F. Fan et al. [[Code]](http://www.escience.cn/system/file?fileId=19)
 - **[LR]** Fast hyperspectral image denoising and inpainting based on low-rank and sparse representations, J-STARS2018, L. Zhuang et al. [[PDF]]( http://www.lx.it.pt/~bioucas/files/submitted_ieee_jstars_2017.pdf)[[Code]]( www.lx.it.pt/∼bioucas/code/Demo_FastHyDe_FastHyIn.rar)
+- **[LR and TV]** A Novel Anisotropic Total Variation Regularized Low Rank Method for Hyperspectral Image Mixed Denoising, ISPRS International Journal of Geo-Information, 2018, L. Sun et al. [[Code]](http://www.escience.cn/system/file?fileId=102178)
+- **[LR]** Fast Superpixel based Subspace Low Rank Learning Method for Hyperspectral Denoising. IEEE Access,2018, L. Sun et al. [[Code]]( http://www.escience.cn/system/file?fileId=97575)
 - **[LR and TV]** Spatial-Spectral Total Variation Regularized Low-Rank Tensor Decomposition forv Hyperspectral Image Denoising, TGRS2018, H. Fan et al.
 - Noise Reduction in Hyperspectral Imagery: Overview and Application, RS2018, B. Rasti et al. [[PDF]]( https://www.mdpi.com/2072-4292/10/3/482/pdf)[[Code]]( http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
+#### Other methods for Non-i.i.d. Noise
+- ** [Non-i.i.d. Noise]** Denoising Hyperspectral Image with Non-i.i.d. Noise Structure, IEEE TCYB2017, Y. Chen et al. [[PDF]]( http://arxiv.org/pdf/1702.00098v1.pdf)[[Code]]( http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2406028&name=DLFE-88042.zip)
+- ** [Non-i.i.d. Noise]** Hyperspectral Image Denoising by Fusing the Selected Related Bandsx, IEEE TGRS2018, X. Zheng et al.
 
 ###### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
