@@ -36,7 +36,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - **[LR]** Hyperspectral image restoration via iteratively regularized weighted Schatten p-norm minimization, TGRS2016, Y. Xie et al.
 - **[LR]** Hyperspectral image restoration using low-rank tensor recovery, J-STARS2017, H. Fan et al.
 - **[LR]** Hyperspectral Image Denoising with Superpixel Segmentation and Low-Rank Representation, INS2017, F. Fan et al. [[Code]](http://www.escience.cn/system/file?fileId=19)
-- **[LR]** Fast hyperspectral image denoising and inpainting based on low-rank and sparse representations, J-STARS2018, L. Zhuang et al. [[PDF]]( http://www.lx.it.pt/~bioucas/files/submitted_ieee_jstars_2017.pdf)[[Code]]( www.lx.it.pt/∼bioucas/code/ Demo_FastHyDe_FastHyIn.rar)
+- **[LR]** Fast hyperspectral image denoising and inpainting based on low-rank and sparse representations, J-STARS2018, L. Zhuang et al. [[PDF]]( http://www.lx.it.pt/~bioucas/files/submitted_ieee_jstars_2017.pdf)[[Code]]( www.lx.it.pt/∼bioucas/code/Demo_FastHyDe_FastHyIn.rar)
 - **[LR and TV]** Spatial-Spectral Total Variation Regularized Low-Rank Tensor Decomposition forv Hyperspectral Image Denoising, TGRS2018, H. Fan et al.
 - Noise Reduction in Hyperspectral Imagery: Overview and Application, RS2018, B. Rasti et al. [[PDF]]( https://www.mdpi.com/2072-4292/10/3/482/pdf)[[Code]]( http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
 
