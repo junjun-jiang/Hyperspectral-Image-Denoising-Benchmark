@@ -1,8 +1,8 @@
 # Hyperspectral-Image-Denoising-Benchmark
 
-Hyperspectral image denoising techniques can be classified into two categories based on whether spatial and spectral information of hyperspectral images are jointly used. The first class is to apply the traditional 2-D image denoising method directly to each band of the hyperspectral image, called band-wise denoising. The second class is the joint use of spatial and spectral information for denoising, called multi-band denoising methods. The second class of method can be further divided into the following three categories: transform domain based methods, spatial domain based methods, and deep learning methods.
+A list of hyperspectral image denoising resources collected by [Yongsen Zhao]( https://github.com/seniusen) and [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
-A list of face hyperspectral image denoising resources collected by [Yongsen Zhao]( https://github.com/seniusen) and [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
+Introduction --- Hyperspectral image denoising techniques can be classified into two categories based on whether spatial and spectral information of hyperspectral images are jointly used. The first class is to apply the traditional 2-D image denoising method directly to each band of the hyperspectral image, called band-wise denoising. The second class is the joint use of spatial and spectral information for denoising, called multi-band denoising methods. The second class of method can be further divided into the following three categories: transform domain based methods, spatial domain based methods, and deep learning methods.
 
 #### Band-wise denoising methods
 - **[BM3D]** Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering, TIP2007, K. Dabov et al.
