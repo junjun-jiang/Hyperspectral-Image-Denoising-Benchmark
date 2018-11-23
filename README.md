@@ -2,8 +2,6 @@
 
 A list of hyperspectral image denoising resources collected by [Yongsen Zhao]( https://github.com/seniusen) and [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
-Introduction --- Hyperspectral image denoising techniques can be classified into two categories based on whether spatial and spectral information of hyperspectral images are jointly used. The first class is to apply the traditional 2-D image denoising method directly to each band of the hyperspectral image, called band-wise denoising. The second class is the joint use of spatial and spectral information for denoising, called multi-band denoising methods. The second class of method can be further divided into the following three categories: transform domain based methods, spatial domain based methods, and deep learning methods.
-
 #### Band-wise denoising methods
 - **[BM3D]** Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering, TIP2007, K. Dabov et al.
 - **[WNNM]** Weighted nuclear norm minimization with application to image denoising, CVPR2014, S. Gu et al.
@@ -47,7 +45,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Noise Reduction in Hyperspectral Imagery: Overview and Application, RS2018, B. Rasti et al. [[PDF]]( https://www.mdpi.com/2072-4292/10/3/482/pdf)[[Code]]( http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
 
 
-###### **[---Deep learning methods---]**
+#### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]]( https://github.com/WHUQZhang/HSID-CNN)
 
