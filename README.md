@@ -15,7 +15,9 @@ A list of face hyperspectral image denoising resources collected by [Yongsen Zha
 - Wavelet-based hyperspectral image estimation, IGARSS2003, I. Atkinson et al.
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
 
-###### Spatial domain methods (Global Correlation along Spetrum, Non-local Self Similarity across space, Total Variation, Non-Local, Sparse Representation, and Low Rank models)
+###### Spatial domain methods
+By adopting reasonable assumptions or priors, such as Global Correlation along Spetrum, Non-local Self Similarity across space, Total Variation, Non-local (Non-Local), Sparse Representation, Low Rank models, etc., spatial domain based methods can well preserve the spatial and spectral characteristics.
+
 - **[GCS and NSS]** Adaptive Spatial-Spectral Dictionary Learning for Hyperspectral Image Denoising, ICCV2015, Ying Fu et al.
 
 - **[GCS and NSS]** Decomposable nonlocal tensor dictionary learning for multispectral image denoising, CVPR2014, P. Yi et al.
@@ -37,7 +39,8 @@ A list of face hyperspectral image denoising resources collected by [Yongsen Zha
 - **[LR]** Fast hyperspectral image denoising and inpainting based on low-rank and sparse representations, J-STARS2018, L. Zhuang et al. [[PDF]]( http://www.lx.it.pt/~bioucas/files/submitted_ieee_jstars_2017.pdf)[[Code]]( www.lx.it.pt/∼bioucas/code/ Demo_FastHyDe_FastHyIn.rar)
 - **[LR and TV]** Spatial-Spectral Total Variation Regularized Low-Rank Tensor Decomposition forv Hyperspectral Image Denoising, TGRS2018, H. Fan et al.
 - Noise Reduction in Hyperspectral Imagery: Overview and Application, RS2018, B. Rasti et al. [[PDF]]( https://www.mdpi.com/2072-4292/10/3/482/pdf)[[Code]]( http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
-######Deep learning methods
+
+###### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]]( https://github.com/WHUQZhang/HSID-CNN)
 
