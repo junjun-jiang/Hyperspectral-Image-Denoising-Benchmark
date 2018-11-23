@@ -11,14 +11,14 @@ Introduction --- Hyperspectral image denoising techniques can be classified into
 
 #### Multi-band based methods
 
-###### Transform domain method
+- ###### Transform domain method
 - Wavelet-based hyperspectral image estimation, IGARSS2003, I. Atkinson et al.
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
 - Hyperspectral image denoising using 3D wavelets, IGARSS2013, B. Rasti et al.
 - A nonlocal transform-domain filter for volumetric data denoising and reconstruction, TIP2012, M. Maggioni et al.
 - Hyperspectral Image Denoising Using First Order Spectral Roughness Penalty in Wavelet Domain, JStars2014, B. Rasti et al.
 
-###### Spatial domain methods
+- ###### Spatial domain methods
 By adopting reasonable assumptions or priors, such as Global Correlation along Spetrum, Non-local Self Similarity across space, Total Variation, Non-local (Non-Local), Sparse Representation, Low Rank models, etc., spatial domain based methods can well preserve the spatial and spectral characteristics.
 
 - **[GCS and NSS]** Adaptive Spatial-Spectral Dictionary Learning for Hyperspectral Image Denoising, ICCV2015, Ying Fu et al.
@@ -47,7 +47,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Noise Reduction in Hyperspectral Imagery: Overview and Application, RS2018, B. Rasti et al. [[PDF]]( https://www.mdpi.com/2072-4292/10/3/482/pdf)[[Code]]( http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
 
 
-###### Deep learning methods
+- ###### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]]( https://github.com/WHUQZhang/HSID-CNN)
 
