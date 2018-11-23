@@ -9,13 +9,13 @@ A list of face hyperspectral image denoising resources collected by [Yongsen Zha
 - **[WNNM]** Weighted nuclear norm minimization with application to image denoising, CVPR2014, S. Gu et al.
 - **[EPLL]** From learning models of natural image patches to whole image restoration, ICCV2011, D. Zoran et al.
 
-####Multi-band based methods
+#### Multi-band based methods
 
-######Transform domain method
+###### Transform domain method
 - Wavelet-based hyperspectral image estimation, IGARSS2003, I. Atkinson et al.
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
 
-######Spatial domain methods (Global Correlation along Spetrum, Non-local Self Similarity across space, Total Variation, Non-Local, Sparse Representation, and Low Rank models)
+###### Spatial domain methods (Global Correlation along Spetrum, Non-local Self Similarity across space, Total Variation, Non-Local, Sparse Representation, and Low Rank models)
 - **[GCS and NSS]** Adaptive Spatial-Spectral Dictionary Learning for Hyperspectral Image Denoising, ICCV2015, Ying Fu et al.
 
 - **[GCS and NSS]** Decomposable nonlocal tensor dictionary learning for multispectral image denoising, CVPR2014, P. Yi et al.
