@@ -11,7 +11,6 @@ A list of hyperspectral image denoising resources collected by [Yongsen Zhao]( h
 
 ###### **[---Transform domain method---]**
 - Wavelet-based hyperspectral image estimation, IGARSS2003, I. Atkinson et al.
-- Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
 - Hyperspectral image denoising using 3D wavelets, IGARSS2013, B. Rasti et al.
 - A nonlocal transform-domain filter for volumetric data denoising and reconstruction, TIP2012, M. Maggioni et al.
 - Hyperspectral Image Denoising Using First Order Spectral Roughness Penalty in Wavelet Domain, JStars2014, B. Rasti et al.
@@ -23,7 +22,6 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - **[GCS and NSS]** Decomposable nonlocal tensor dictionary learning for multispectral image denoising, CVPR2014, P. Yi et al. [[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=1766524&name=DLFE-38410.zip)
 - **[GCS and NSS]** Multispectral images denoising by intrinsic tensor sparsity regularization, CVPR2016, Q. Xie et al. [[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2343711&name=DLFE-86323.zip)
 - **[GCS]** Denoising of hyperspectral images using the parafac model and statistical performance analysis, TGRS2012, X. F. Liu, et al.
-- **[TV]** Hyperspectral image denoising employing a spectral–spatial adaptive total variation model, TGRS2012, Q. Yuan et al.
 - **[TV]** Hyperspectral image denoising with cubic total variation model, ISPRS2012, H. Zhang et al.
 - **[TV]** Hyperspectral image denoising with a combined spatial and spectral hyperspectral total variation model, CJRS2014, G. Chen et al.
 - **[SR]** Spectral–Spatial Adaptive Sparse Representation for Hyperspectral Image Denoising, TGRS2016, T. Lu et al.
@@ -50,8 +48,13 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]]( https://github.com/WHUQZhang/HSID-CNN)
 
 #### Other methods for Non-i.i.d. Noise
-- ** [Non-i.i.d. Noise]** Denoising Hyperspectral Image with Non-i.i.d. Noise Structure, IEEE TCYB2017, Y. Chen et al. [[PDF]]( http://arxiv.org/pdf/1702.00098v1.pdf)[[Code]]( http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2406028&name=DLFE-88042.zip)
-- ** [Non-i.i.d. Noise]** Hyperspectral Image Denoising by Fusing the Selected Related Bandsx, IEEE TGRS2018, X. Zheng et al.
+- Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
+- Hyperspectral image denoising employing a spectral–spatial adaptive total variation model, TGRS2012, Q. Yuan et al.
+- 3-D nonlocal means filter with noise estimation for hyperspectral imagery denoising, IGRSS2013, Y. Qian et al.
+- Hyperspectral imagery restoration using nonlocal spectral-spatial structured sparse representation with noise estimation, JStars2013, Y. Qian et al.
+- Spectral–spatial kernel regularized for hyperspectral image denoising, IEE TGRS2015, Y. Yuan et al.
+- Denoising Hyperspectral Image with Non-i.i.d. Noise Structure, IEEE TCYB2017, Y. Chen et al. [[PDF]]( http://arxiv.org/pdf/1702.00098v1.pdf)[[Code]]( http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2406028&name=DLFE-88042.zip)
+- Hyperspectral Image Denoising by Fusing the Selected Related Bandsx, IEEE TGRS2018, X. Zheng et al.
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
