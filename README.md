@@ -43,11 +43,14 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - **[LR]** Hyperspectral Image Denoising via Minimizing the Partial Sum of Singular Values and Superpixel Segmentation, Neurocomputing2018, Y. Liu et al. [[PDF]](https://ac.els-cdn.com/S0925231218313705/1-s2.0-S0925231218313705-main.pdf?_tid=b9341448-ec31-43ee-9984-5b4653353341&acdnat=1543139827_163d7541ba7ab463ee3cc9dcfdcb09f4)
 - **[LR]** Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising, arXiv2018, W. He et al. [[PDF]](https://arxiv.org/pdf/1812.04243)
 
-- Noise Reduction in Hyperspectral Imagery: Overview and Application, RS2018, B. Rasti et al. [[PDF]](https://www.mdpi.com/2072-4292/10/3/482/pdf)[[Code]](http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
+- **[LR]** Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising, arXiv2018, W. He et al. [[Code]](https://github.com/ZhaomingKong/color_image_denoising)[[Pdf]](https://arxiv.org/pdf/1809.03298.pdf)
+
+- Color Image and Multispectral Image Denoising Using Block Diagonal Representation, arXiv2019, Zhaoming Kong et al. [[PDF]](https://arxiv.org/pdf/1902.03954.pdf)[[Code]](http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
 
 #### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
+- HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
 
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
