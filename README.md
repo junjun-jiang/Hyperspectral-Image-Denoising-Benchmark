@@ -43,6 +43,11 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - **[LR]** Hyperspectral Image Denoising via Minimizing the Partial Sum of Singular Values and Superpixel Segmentation, Neurocomputing2018, Y. Liu et al. [[PDF]](https://ac.els-cdn.com/S0925231218313705/1-s2.0-S0925231218313705-main.pdf?_tid=b9341448-ec31-43ee-9984-5b4653353341&acdnat=1543139827_163d7541ba7ab463ee3cc9dcfdcb09f4)
 - **[LR]** Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising, arXiv2018, W. He et al. [[Web]](https://sites.google.com/site/rshewei/home)[[Pdf]](https://arxiv.org/pdf/1809.03298.pdf)
 - **[Tensor]** Color Image and Multispectral Image Denoising Using Block Diagonal Representation, arXiv2019, Zhaoming Kong et al. [[PDF]](https://arxiv.org/pdf/1902.03954.pdf)[[Code]](http://openremotesensing.net/wp-content/uploads/2018/03/MatlabCodes.zip)
+- Intracluster Structured Low-Rank Matrix Analysis Method for Hyperspectral Denoising, IEEE TGRS, Xiangtao Zheng et al.[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527652)
+- Hyperspectral Image Denoising by Fusing the Selected Related Bands, IEEE TGRS, Xiangtao Zheng et al.[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527652)
+- Nonlocal Low-Rank Regularized Tensor Decomposition for Hyperspectral Image Denoising, IEEE TGRS, Jize Xue et al.[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8657368)
+- A Novel Rank Approximation Method for Mixture Noise Removal of Hyperspectral Images, IEEE TGRS, Hailiang Ye et al.[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8632962)
+
 
 #### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
@@ -50,6 +55,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS2019, Yi Chang et al. [[Web]](http://www.escience.cn/people/changyi/index.html) [[Pdf]](http://www.escience.cn/system/download/100951)
 - Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution, arxiv2019, Oleksii Sidorov et al. [[Code]](https://github.com/acecreamu/deep-hs-prior) [[Pdf]](https://arxiv.org/pdf/1902.00301)
 - Hybrid Noise Removal in Hyperspectral Imagery With a Spatial-Spectral Gradient Network, IEEE TGRS 2019, Qiang Zhang et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
+- Deep Spatial-spectral Representation Learning for Hyperspectral Image Denoising, IEEE TCI 2019, Weisheng Dong et al. [[Code]](https://github.com/WHUQZhang/SSGN) [[Pdf]](https://arxiv.org/pdf/1810.00495)
 
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
@@ -59,6 +65,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Spectral–spatial kernel regularized for hyperspectral image denoising, IEE TGRS2015, Y. Yuan et al.
 - Denoising Hyperspectral Image with Non-i.i.d. Noise Structure, IEEE TCYB2017, Y. Chen et al. [[PDF]](http://arxiv.org/pdf/1702.00098v1.pdf)[[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2406028&name=DLFE-88042.zip)
 - Hyperspectral Image Denoising by Fusing the Selected Related Bandsx, IEEE TGRS2018, X. Zheng et al.
+A Novel Rank Approximation Method for Mixture Noise Removal of Hyperspectral Images, IEEE TGRS2098, X. Zheng et al.
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
