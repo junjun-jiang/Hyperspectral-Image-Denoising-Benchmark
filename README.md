@@ -67,7 +67,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU 2020, H. Zeng et al.
 - Hyperspectral Image Denoising via Clustering-Based Latent Variable in Variational Bayesian Framework, IEEE TGRS 2021, Peyman Azimpour et al.
 - Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, IEEE TGRS 2021, J. Song et al.
-- Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, IEEE TGRS 2021, X. Cao et al.
+- Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising, IEEE TGRS 2021, X. Cao et al. [[Code]](https://github.com/xiangyongcao/GRN)
 - Hyperspectral Image Denoising Using a 3-D Attention Denoising Network, IEEE TGRS 2021, Q. Shi et al.
 - 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising, IEEE TNNLS 2021, K. Wei et al.
 
