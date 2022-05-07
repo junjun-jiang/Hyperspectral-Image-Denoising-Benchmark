@@ -98,3 +98,5 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Feature SIMilarity index (FSIM)
 - Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
 - Spectral Angle Mapper (SAM)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Hyperspectral-Image-Denoising-Benchmark) Since 2022/5/7
