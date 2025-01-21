@@ -72,6 +72,9 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - 3-D Quasi-Recurrent Neural Network for Hyperspectral Image Denoising, IEEE TNNLS 2021, K. Wei et al.
 - SSUMamba: Spatial–Spectral Selective State Space Model for Hyperspectral Image Denoising, IEEE TGRS 2024, Guanyiman Fu et al. [[Code]](https://github.com/lronkitty/SSUMamba)
 - Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising, CVPR 2024, Haijin Zeng et al.
+- Flex-DLD: Deep Low-Rank Decomposition Model With Flexible Priors for Hyperspectral Image Denoising and Restoration, TIP 2024, Yurong Chen et al.
+- Hyperspectral Image Denoising via Spatial–Spectral Recurrent Transformer, IEEE TGRS 2024, Guanyiman Fu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463066)[[Code]](https://github.com/lronkitty/SSRT)
+- HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models, CVPR 2024, Li Pang et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/LiPang/HIRDiff)
 
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
@@ -82,9 +85,6 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Denoising Hyperspectral Image with Non-i.i.d. Noise Structure, IEEE TCYB2017, Y. Chen et al. [[PDF]](http://arxiv.org/pdf/1702.00098v1.pdf)[[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2406028&name=DLFE-88042.zip)
 - Hyperspectral Image Denoising by Fusing the Selected Related Bandsx, IEEE TGRS2018, X. Zheng et al.
 - A Novel Rank Approximation Method for Mixture Noise Removal of Hyperspectral Images, IEEE TGRS2018, X. Zheng et al.
-- Flex-DLD: Deep Low-Rank Decomposition Model With Flexible Priors for Hyperspectral Image Denoising and Restoration, TIP 2024, Yurong Chen et al.
-- Hyperspectral Image Denoising via Spatial–Spectral Recurrent Transformer, IEEE TGRS 2024, Guanyiman Fu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463066)[[Code]](https://github.com/lronkitty/SSRT)
-- HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models, CVPR 2024, Li Pang et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/LiPang/HIRDiff)
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
