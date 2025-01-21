@@ -75,6 +75,7 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Flex-DLD: Deep Low-Rank Decomposition Model With Flexible Priors for Hyperspectral Image Denoising and Restoration, TIP 2024, Yurong Chen et al.
 - Hyperspectral Image Denoising via Spatial–Spectral Recurrent Transformer, IEEE TGRS 2024, Guanyiman Fu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463066)[[Code]](https://github.com/lronkitty/SSRT)
 - HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models, CVPR 2024, Li Pang et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/LiPang/HIRDiff)
+- Latent Diffusion Enhanced Rectangle Transformer for Hyperspectral Image Restoration, IEEE TPAMI 2025, Miaoyu Li et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713101)
 
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
