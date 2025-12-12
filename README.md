@@ -14,6 +14,7 @@ A list of hyperspectral image denoising resources collected by [Yongsen Zhao]( h
 - Hyperspectral image denoising using 3D wavelets, IGARSS2013, B. Rasti et al.
 - A nonlocal transform-domain filter for volumetric data denoising and reconstruction, TIP2012, M. Maggioni et al.
 - Hyperspectral Image Denoising Using First Order Spectral Roughness Penalty in Wavelet Domain, JStars2014, B. Rasti et al.
+- Bridging Fourier and Spatial-Spectral Domains for Hyperspectral Image Denoising, ACM.MM 2024, Jiahua Xiao, et al.
 
 ###### **[---Spatial domain methods---]**
 By adopting reasonable assumptions or priors, such as Global Correlation along Spetrum, Non-local Self Similarity (NSS) across space, Total Variation (TV), Non-local (Non-Local), Sparse Representation (SR), Low Rank (LR) models, Tensor models, etc., spatial domain based methods can well preserve the spatial and spectral characteristics.
@@ -52,6 +53,10 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Double Low-Rank Matrix Decomposition for Hyperspectral Image Denoising and Destriping, IEEE TGRS 2021, H. Zhang et al.
 - Hyperspectral Image Denoising Based on Global and Nonlocal Low-Rank Factorizations, IEEE TGRS 2021, L. Zhuang et al.
 - Deep spatio-spectral Bayesian posterior for hyperspectral image non-i.i.d. noise removal, ISPRS P&RS 2020, Q. Zhang et al.
+- Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising, CVPR 2024, Haijin Zeng. et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.pdf)
+- Flex-DLD: Deep Low-Rank Decomposition Model With Flexible Priors for Hyperspectral Image Denoising and Restoration, TIP 2024, Yurong Chen, et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423584)
+- HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models, CVPR 2024, Li Pang, et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf), [[Code]](https://github.com/LiPang/HIRDiff)
+- Hyperspectral image restoration via the collaboration of low-rank tensor denoising and completion, PR 2024, Tianheng Zhang, et al.
 
 #### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
@@ -76,6 +81,9 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Hyperspectral Image Denoising via Spatial–Spectral Recurrent Transformer, IEEE TGRS 2024, Guanyiman Fu et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463066)[[Code]](https://github.com/lronkitty/SSRT)
 - HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models, CVPR 2024, Li Pang et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf)[[Code]](https://github.com/LiPang/HIRDiff)
 - Latent Diffusion Enhanced Rectangle Transformer for Hyperspectral Image Restoration, IEEE TPAMI 2025, Miaoyu Li et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713101)
+- Hybrid Spatial-Spectral Neural Network for Hyperspectral Image Denoising, ECCV 2024, Hao Liang, et al. [[Code]](https://github.com/lianghao2000/HSSD_official)
+- Spectral Aggregation Cross-Square Transformer for Hyperspectral Image Denoising, PR 2024, Yang Liu, et al. [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-78354-8_29.pdf?pdf=inline%20link)
+- VolFormer: Explore More Comprehensive Cube Interaction for Hyperspectral Image Restoration and Beyond, CVPR 2025, Dabing Yu, et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_VolFormer_Explore_More_Comprehensive_Cube_Interaction_for_Hyperspectral_Image_Restoration_CVPR_2025_paper.pdf), [[Code]](https://github.com/yudadabing/VolFormer)
 
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
@@ -86,6 +94,8 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Denoising Hyperspectral Image with Non-i.i.d. Noise Structure, IEEE TCYB2017, Y. Chen et al. [[PDF]](http://arxiv.org/pdf/1702.00098v1.pdf)[[Code]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2406028&name=DLFE-88042.zip)
 - Hyperspectral Image Denoising by Fusing the Selected Related Bandsx, IEEE TGRS2018, X. Zheng et al.
 - A Novel Rank Approximation Method for Mixture Noise Removal of Hyperspectral Images, IEEE TGRS2018, X. Zheng et al.
+- Region-Aware Sequence-to-Sequence Learning for Hyperspectral Denoising, ECCV 2024, Jiahua Xiao, et al. [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-73027-6_13.pdf?pdf=inline%20link), [[Code]](https://github.com/MIV-XJTU/RAS2S)
+- Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image, ICCV 2025, Shuang Xu, et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Hipandas_Hyperspectral_Image_Joint_Denoising_and_Super-Resolution_by_Image_Fusion_ICCV_2025_paper.pdf), [[Code]](https://github.com/shuangxu96/Hipandas)
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
