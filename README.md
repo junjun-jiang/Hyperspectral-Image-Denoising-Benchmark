@@ -85,6 +85,8 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - Hybrid Spatial-Spectral Neural Network for Hyperspectral Image Denoising, ECCV 2024, Hao Liang, et al. [[Code]](https://github.com/lianghao2000/HSSD_official)
 - Spectral Aggregation Cross-Square Transformer for Hyperspectral Image Denoising, PR 2024, Yang Liu, et al. [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-78354-8_29.pdf?pdf=inline%20link)
 - VolFormer: Explore More Comprehensive Cube Interaction for Hyperspectral Image Restoration and Beyond, CVPR 2025, Dabing Yu, et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_VolFormer_Explore_More_Comprehensive_Cube_Interaction_for_Hyperspectral_Image_Restoration_CVPR_2025_paper.pdf), [[Code]](https://github.com/yudadabing/VolFormer)
+- LaMamba: Linear Attention Mamba for Hyperspectral Image Denoising, IEEE TGRS 2025, Puhong Duan, et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11177616). [[Code]](https://github.com/PuhongDuan/LaMamba.git).
+- MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration. ICCV 2025, Zhehui Wu, et al. [[PDF]](https://arxiv.org/pdf/2503.09131). [[Code]](https://github.com/ZhehuiWu/MP-HSIR.git).
 
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
