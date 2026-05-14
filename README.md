@@ -15,6 +15,7 @@ A list of hyperspectral image denoising resources collected by [Yongsen Zhao]( h
 - A nonlocal transform-domain filter for volumetric data denoising and reconstruction, TIP2012, M. Maggioni et al.
 - Hyperspectral Image Denoising Using First Order Spectral Roughness Penalty in Wavelet Domain, JStars2014, B. Rasti et al.
 - Bridging Fourier and Spatial-Spectral Domains for Hyperspectral Image Denoising, ACM.MM 2024, Jiahua Xiao, et al.
+- Real Noise Decoupling for Hyperspectral Image Denoising, AAAI 2026, Yingkai Zhang, et al. [[PDF]](https://arxiv.org/pdf/2511.17196). [[Code]](https://github.com/yingkai-zhang/RND.git)
 
 ###### **[---Spatial domain methods---]**
 By adopting reasonable assumptions or priors, such as Global Correlation along Spetrum, Non-local Self Similarity (NSS) across space, Total Variation (TV), Non-local (Non-Local), Sparse Representation (SR), Low Rank (LR) models, Tensor models, etc., spatial domain based methods can well preserve the spatial and spectral characteristics.
