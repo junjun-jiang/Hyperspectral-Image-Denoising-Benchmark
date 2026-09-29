@@ -62,15 +62,6 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - **[Tensor and INR]** Unified Guided Hyperspectral Image Denoising by Continuous Coupled Tucker Decomposition, IEEE TGRS 2026, X. Ji, P. Li, J. Wang, S. Xu, T.-Y. Ji, J. Peng, X. Cao, D. Meng.
 [[PDF]](https://doi.org/10.1109/TGRS.2026.3708294)
 
-- **[LR and Tensor]** Nonlocal Low-Rank Residual Modeling for Hyperspectral Image Mixed Noise Removal, Mathematics 2026, Lixia Xia, Youqun Chen, Xin Wang, Hongbing Sun.
-[[PDF]](https://www.mdpi.com/2227-7390/14/15/2731)
-
-- **[TV]** Hyperspectral Image Denoising via Enhanced Laplacian Total Variation Regularizer, Expert Systems with Applications 2026, Dong Hu, Yusen Tan, Yong Wang, Tao Jia, Zhi Wang.
-[[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417426012455)
-
-- **[Noise Prior and Spatial-Spectral Regularization]** Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising, Applied Mathematical Modelling 2026, Xuelin Xie, Xiliang Lu, Zhengshan Wang, Yang Zhang, Long Chen.
-[[PDF]](https://www.sciencedirect.com/science/article/pii/S0307904X26002441)
-
 #### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
