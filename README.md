@@ -94,10 +94,6 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - HIDFlowNet: A Flow-Based Deep Network for Hyperspectral Image Denoising, Information Fusion 2026, Qizhou Wang, Li Pang, Xiangyong Cao, Zhiqiang Tian, Deyu Meng.
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1566253525005329)
 
-- S2TDM: Spatial-Spectral Transformer-Based Diffusion Model for Hyperspectral Image Denoising, Geo-spatial Information Science 2026, Zhehui Wu, Yong Chen, Jin Xiong, Xiaodong Pan, Wei He.
-[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10095020.2025.2591277)
-[[Code]](https://github.com/ZhehuiWu/S2TDM)
-
 - Degradation-Aware Metric Prompting for Hyperspectral Image Restoration, ICML 2026, Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang.
 [[PDF]](https://arxiv.org/abs/2512.20251)
 [[Code]](https://github.com/MiliLab/DAMP)
