@@ -59,6 +59,18 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models, CVPR 2024, Li Pang, et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.pdf), [[Code]](https://github.com/LiPang/HIRDiff)
 - Hyperspectral image restoration via the collaboration of low-rank tensor denoising and completion, PR 2024, Tianheng Zhang, et al.
 
+- **[Tensor and INR]** Unified Guided Hyperspectral Image Denoising by Continuous Coupled Tucker Decomposition, IEEE TGRS 2026, X. Ji, P. Li, J. Wang, S. Xu, T.-Y. Ji, J. Peng, X. Cao, D. Meng.
+[[PDF]](https://doi.org/10.1109/TGRS.2026.3708294)
+
+- **[LR and Tensor]** Nonlocal Low-Rank Residual Modeling for Hyperspectral Image Mixed Noise Removal, Mathematics 2026, Lixia Xia, Youqun Chen, Xin Wang, Hongbing Sun.
+[[PDF]](https://www.mdpi.com/2227-7390/14/15/2731)
+
+- **[TV]** Hyperspectral Image Denoising via Enhanced Laplacian Total Variation Regularizer, Expert Systems with Applications 2026, Dong Hu, Yusen Tan, Yong Wang, Tao Jia, Zhi Wang.
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417426012455)
+
+- **[Noise Prior and Spatial-Spectral Regularization]** Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising, Applied Mathematical Modelling 2026, Xuelin Xie, Xiliang Lu, Zhengshan Wang, Yang Zhang, Long Chen.
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S0307904X26002441)
+
 #### Deep learning methods
 - Hyperspectral imagery denoising by deep learning with trainable nonlinearity function, GRSL2017, W. Xie et al.
 - Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network, TGRS2018, Q. Yuan et al. [[Code]](https://github.com/WHUQZhang/HSID-CNN)
@@ -88,6 +100,23 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - LaMamba: Linear Attention Mamba for Hyperspectral Image Denoising, IEEE TGRS 2025, Puhong Duan, et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11177616). [[Code]](https://github.com/PuhongDuan/LaMamba.git).
 - MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration. ICCV 2025, Zhehui Wu, et al. [[PDF]](https://arxiv.org/pdf/2503.09131). [[Code]](https://github.com/ZhehuiWu/MP-HSIR.git).
 
+- HIDFlowNet: A Flow-Based Deep Network for Hyperspectral Image Denoising, Information Fusion 2026, Qizhou Wang, Li Pang, Xiangyong Cao, Zhiqiang Tian, Deyu Meng.
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S1566253525005329)
+
+- S2TDM: Spatial-Spectral Transformer-Based Diffusion Model for Hyperspectral Image Denoising, Geo-spatial Information Science 2026, Zhehui Wu, Yong Chen, Jin Xiong, Xiaodong Pan, Wei He.
+[[PDF]](https://www.tandfonline.com/doi/full/10.1080/10095020.2025.2591277)
+[[Code]](https://github.com/ZhehuiWu/S2TDM)
+
+- Degradation-Aware Metric Prompting for Hyperspectral Image Restoration, ICML 2026, Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang.
+[[PDF]](https://arxiv.org/abs/2512.20251)
+[[Code]](https://github.com/MiliLab/DAMP)
+
+- MSG-Former: Multi-Scale Spatial-Spectral Gated Transformer for Hyperspectral Image Denoising, IEEE TMM 2026, X. Ou, J. Cai, S. Chen, G. Zhang.
+[[PDF]](https://doi.org/10.1109/TMM.2026.3724760)
+
+- SSFDT: Spatial-Spectral-Frequency Dual Transformer for Hyperspectral Image Denoising, Pattern Recognition 2026, Yuefei Zhang, Mengying Xie, Shaojiang Deng, Xiaowei Yang.
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320326008599)
+
 #### Other methods for Non-i.i.d. Noise
 - Noise reduction of hyperspectral imagery using hybrid spatial-spectral derivative-domain wavelet shrinkage, TGRS2006, H. Othman et al.
 - Hyperspectral image denoising employing a spectral–spatial adaptive total variation model, TGRS2012, Q. Yuan et al.
@@ -99,6 +128,10 @@ By adopting reasonable assumptions or priors, such as Global Correlation along S
 - A Novel Rank Approximation Method for Mixture Noise Removal of Hyperspectral Images, IEEE TGRS2018, X. Zheng et al.
 - Region-Aware Sequence-to-Sequence Learning for Hyperspectral Denoising, ECCV 2024, Jiahua Xiao, et al. [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-031-73027-6_13.pdf?pdf=inline%20link), [[Code]](https://github.com/MIV-XJTU/RAS2S)
 - Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image, ICCV 2025, Shuang Xu, et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Hipandas_Hyperspectral_Image_Joint_Denoising_and_Super-Resolution_by_Image_Fusion_ICCV_2025_paper.pdf), [[Code]](https://github.com/shuangxu96/Hipandas)
+
+- Real Noise Decoupling for Hyperspectral Image Denoising, AAAI 2026, Yingkai Zhang, Tao Zhang, Jing Nie, Ying Fu.
+[[PDF]](https://arxiv.org/pdf/2511.17196)
+[[Code]](https://github.com/yingkai-zhang/RND)
 
 #### Databases 
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
